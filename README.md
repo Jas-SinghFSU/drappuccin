@@ -1,3 +1,5 @@
+My Catppuccin Mocha + Dracula combination of [maxmx03/dracula.nvim](https://github.com/maxmx03/dracula.nvim)
+
 # Dracula
 
 > Created with [schemecraft](https://github.com/maxmx03/schemecraft)
