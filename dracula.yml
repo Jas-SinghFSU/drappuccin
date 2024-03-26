@@ -109,11 +109,11 @@ config:
   on_highlights: ~
   plugins: ~
 palette:
-  base0: "#f8f8f2" # foreground
-  base01: "#6272a4" # comment
-  base02: "#44475A" # background highlight
-  base03: "#282a36" # background
-  base04: "#21222c" # background shade
+  base0: "#F8F8F2"
+  base01: "#6272A4"
+  base02: "#313244"
+  base03: "#1e1e2e"
+  base04: "#181825"
   yellow: "#f1fa8c"
   cyan: "#8be9fd"
   green: "#50fa7a"

@@ -37,9 +37,9 @@
 return {
   base0 = '#F8F8F2',
   base01 = '#6272A4',
-  base02 = '#44475A',
-  base03 = '#282A36',
-  base04 = '#21222C',
+  base02 = '#313244',
+  base03 = '#1e1e2e',
+  base04 = '#181825',
   cyan = '#8BE9FD',
   diag_error = '#FF5555',
   diag_hint = '#8BE9FD',
