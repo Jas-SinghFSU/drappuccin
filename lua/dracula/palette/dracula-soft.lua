@@ -37,10 +37,10 @@
 ---@field yellow? string
 return {
   base0 = '#F8F8F2',
-  base01 = '#7B7F8B',
-  base02 = '#44475A',
-  base03 = '#282A36',
-  base04 = '#262626',
+  base01 = '#6272A4',
+  base02 = '#313244',
+  base03 = '#1e1e2e',
+  base04 = '#181825',
   cyan = '#ADF6F6',
   diag_error = '#EE6666',
   diag_hint = '#ADF6F6',
