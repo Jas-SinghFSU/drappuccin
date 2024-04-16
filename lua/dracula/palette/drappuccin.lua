@@ -37,8 +37,8 @@
 ---@field yellow? string
 return {
   base0 = '#F8F8F2',
-  base01 = '#45475a',
-  base02 = '#313244',
+  base01 = '#585b70',
+  base02 = '#45475a',
   base03 = '#1e1e2e',
   base04 = '#181825',
   cyan = '#89dceb',
