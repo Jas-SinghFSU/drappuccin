@@ -1,0 +1,76 @@
+---@class dracula.palette
+---@field base0? string
+---@field base01? string
+---@field base02? string
+---@field base03? string
+---@field base04? string
+---@field cyan? string
+---@field diag_error? string
+---@field diag_hint? string
+---@field diag_info? string
+---@field diag_ok? string
+---@field diag_warning? string
+---@field git_added? string
+---@field git_modified? string
+---@field git_removed? string
+---@field green? string
+---@field inlay_hint? string
+---@field orange? string
+---@field pink? string
+---@field purple? string
+---@field red? string
+---@field shade_add? string
+---@field shade_change? string
+---@field shade_cyan? string
+---@field shade_error? string
+---@field shade_green? string
+---@field shade_hint? string
+---@field shade_info? string
+---@field shade_ok? string
+---@field shade_orange? string
+---@field shade_other? string
+---@field shade_pink? string
+---@field shade_purple? string
+---@field shade_red? string
+---@field shade_warning? string
+---@field shade_yellow? string
+---@field yellow? string
+return {
+  base0 = '#F8F8F2',
+  base01 = '#45475a',
+  base02 = '#313244',
+  base03 = '#1e1e2e',
+  base04 = '#181825',
+  cyan = '#89dceb',
+  diag_error = '#f38ba8',
+  diag_hint = '#89dceb',
+  diag_info = '#89dceb',
+  diag_ok = '#a6e3a1',
+  diag_warning = '#fab387',
+  git_added = '#a6e3a1',
+  git_modified = '#fab387',
+  git_removed = '#f38ba8',
+  green = '#a6e3a1',
+  inlay_hint = '#689494',
+  orange = '#fab387',
+  pink = '#eb8ad1',
+  purple = '#cba6f7',
+  red = '#f38ba8',
+  shade_add = '#314742',
+  shade_change = '#483F3E',
+  shade_cyan = '#394552',
+  shade_error = '#46333D',
+  shade_green = '#314742',
+  shade_hint = '#394552',
+  shade_info = '#394552',
+  shade_ok = '#314742',
+  shade_orange = '#483F3E',
+  shade_other = '#3F3B52',
+  shade_pink = '#5B415A',
+  shade_purple = '#3F3B52',
+  shade_red = '#46333D',
+  shade_warning = '#483F3E',
+  shade_yellow = '#454745',
+  yellow = '#f9e2af',
+}
+
